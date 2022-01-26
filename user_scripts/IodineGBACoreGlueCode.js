@@ -29,7 +29,7 @@ var games = {
     "croket4":"Croket! 4 - Bank no Mori no Mamorigami",
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
-    "donkey_kong_country_gba":"Donkey Kong Country GBA",
+    "donkey_kong_country_gba_(1)":"Donkey Kong Country GBA",
     "drilldozer":"Drill Dozer",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
